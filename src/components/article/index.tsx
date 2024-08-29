@@ -29,7 +29,7 @@ export function Article({}: Props) {
             </div>
             <p className="py-2">Jul 26 . 3m read time</p>
            </CardDescription>
-                <ArticleImage />
+            <ArticleImage />
               <div className="flex pt-2 justify-end gap-4">
                 <div className="flex gap-1">
               <LuMessageCircle size={25}/>
